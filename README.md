@@ -18,16 +18,15 @@ be trusted:
   idle game where a local LLM drives Player 1 over an HTTP tool-calling contract. Fork it and
   design your own.
 - **[devenv-boilerplate-for-claude-code](https://github.com/maxwellcsutton/devenv-boilerplate-for-claude-code)**
-— a Claude Code starter kit for safe agentic development: full-handoff CLAUDE.md, doc-drift
-hooks, skill discipline, and guardrails for unattended runs.
+  — a Claude Code starter kit for safe agentic development: full-handoff CLAUDE.md, doc-drift
+  hooks, skill discipline, and guardrails for unattended runs.
 - **[agent-validation-harness](https://github.com/maxwellcsutton/agent-validation-harness)** — an
   LLM-as-judge pipeline for empirical changes: premise-verification agents, blind cross-family
   judges, a 2-of-2 landing rule, and hooks that hard-limit autonomous runs.
-<!-- Uncomment when the repo lands (use final name):
-- **[agent-console](https://github.com/maxwellcsutton/agent-console)** — a self-hosted,
+  Uncomment when the repo lands (use final name):
+- **[multi-agent-hub](https://github.com/maxwellcsutton/multi-agent-hub)** — a self-hosted,
   private-mesh web console for launching and piloting headless Claude/Kimi/Qwen CLI sessions
   against any local repo, from any device.
-  -->
 - **[3d-printer-pi](https://github.com/maxwellcsutton/3d-printer-pi)** — cloud dashboard and print
   queue for my BIQU B1, with Discord-gated job handoffs between prints.
 
